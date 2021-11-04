@@ -1,0 +1,14 @@
+This cypher takes in a keyword. The keyword replaces it's length of the alphabet. The rest of the alphabet is replaced with the alphabet minus the keyword's letters. 
+
+Keyword = washing
+
+abcdefghijklmnopqrstuvwxyz
+washingbcdefjklmopqrtuvxyz
+
+Example-
+I love cryptography!
+C flui spymrlgpwmby!
+
+Example reversed.
+C flui spymrlgpwmby!
+i love cryptography!
